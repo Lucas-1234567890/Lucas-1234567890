@@ -1,3 +1,9 @@
+## 👋 Olá! Eu sou o Lucas Amorim
+
+- 🎯 Estudante de Engenharia de Dados e Inteligência Artificial  
+- 🔥 Apaixonado por dados, tecnologia e automação  
+- 📊 Atuo com análise de dados, criação de dashboards, automações e desenvolvimento de soluções inteligentes  
+
 ### 🚀 Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
