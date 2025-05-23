@@ -27,3 +27,11 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas-1234567890&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-1234567890&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
+
+### 🌐 Onde me encontrar:
+<div> 
+  <a href="https://www.instagram.com/engdados.lucas_amorim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.threads.com/@engdados.lucas_amorim" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-amorim-powerbi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
