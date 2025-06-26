@@ -14,6 +14,18 @@
   <img align="center" alt="Lucas-PowerBI" height="30" width="40" src="https://img.icons8.com/color/48/power-bi.png">
 </div>
 
+### 💼 Projetos em Destaque
+
+- 📊 [Análise Comercial](https://github.com/Lucas-1234567890/analise-comercial)  
+  Dashboard em Power BI com indicadores de vendas, metas e desempenho por loja, vendedor e supervisor. Projeto focado em granularização de metas e storytelling visual.
+
+- ⚙️ [Automação de Lançamentos Contábeis](https://github.com/Lucas-1234567890/automacao_lancamentos_contabeis)  
+  Automatização com Python para padronização, organização e lançamento de dados contábeis em planilhas complexas.
+
+- 🛒 [Automação de Cadastro de Produtos no ERP](https://github.com/Lucas-1234567890/automacao-cadastro-produtos-erp)  
+  Sistema para cadastrar produtos automaticamente em sistemas ERP. Reduz erros manuais e acelera processos internos.
+
+
 ### 🏆 Certificado Reconhecido pelo MEC  
 [<img src="https://xperiun.com/wp-content/uploads/2024/08/trilhas_portfolio-badges-trilhas.webp" width="100"/>](https://drive.google.com/file/d/1QFk3uUcfTkpYYfO9R8Ztpcc3XlODPqZ-/view)
 
