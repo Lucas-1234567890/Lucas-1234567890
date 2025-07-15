@@ -66,8 +66,9 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  ![snake gif](https://github.com/Lucas-1234567890/Lucas-1234567890/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Lucas-1234567890/Lucas-1234567890/blob/main/dist/github-contribution-grid-snake.svg)
 </div>
+
 
 ---
 
