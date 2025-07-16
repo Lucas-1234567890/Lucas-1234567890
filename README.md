@@ -57,10 +57,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-1234567890&theme=radical" alt="streak stats"/>
-</div>
-
 ---
 
 ### 🐍 Contribution Snake
