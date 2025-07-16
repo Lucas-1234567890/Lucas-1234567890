@@ -19,8 +19,7 @@ jobs:
           github_user_name: Lucas-1234567890
           outputs: |
             dist/github-contribution-grid-snake.svg
-          # adiciona o tema dark
-          theme: github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: EndBug/add-and-commit@v9
@@ -28,4 +27,4 @@ jobs:
           author_name: github-actions
           author_email: github-actions@github.com
           message: "generate contribution snake"
-          add: "dist/github-contribution-grid-snake.svg"
+          add: "dist/"
