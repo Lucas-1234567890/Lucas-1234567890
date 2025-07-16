@@ -62,8 +62,13 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Lucas-1234567890/Lucas-1234567890/main/dist/github-contribution-grid-snake.svg" alt="snake gif" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucas-1234567890/Lucas-1234567890/main/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucas-1234567890/Lucas-1234567890/main/dist/github-contribution-grid-snake.svg" />
+    <img alt="snake gif" src="https://raw.githubusercontent.com/Lucas-1234567890/Lucas-1234567890/main/dist/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
+
 
 
 
