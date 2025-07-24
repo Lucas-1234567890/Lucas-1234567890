@@ -44,7 +44,7 @@
 
 - Engenharia de Dados (Faculdade)
 - Power BI Avançado
-- Python para automações e APIs
+- Python para automações, ciência de dados, desenvolvimento web
 
 ---
 
