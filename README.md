@@ -24,19 +24,37 @@
 
 ---
 
-### 💼 Projetos em Destaque
+## 💼 Projetos em Destaque
 
-- 📊 **Dashboard de Vendas com Metas e Storytelling**  
-  [🔗 Ver Projeto](https://github.com/Lucas-1234567890/analise-comercial)  
-  Dashboard em Power BI com indicadores de vendas, metas e desempenho por loja, vendedor e supervisor. Granularização de metas e storytelling visual para decisões estratégicas.
+- 📊 **Airbnb Rio — Análise de Preços**  
+  [🔗 Ver Projeto](https://github.com/Lucas-1234567890/airbnb-rio)  
+  Ciência de dados para entender padrões de preços e ocupação de imóveis no Rio de Janeiro.  
+  *Stack:* Python, Pandas, Seaborn, Matplotlib, sklearn.  
 
-- ⚙️ **Automação Contábil com Python**  
+- 📊 **ENEM 2023 — Análise de Dados**  
+  [🔗 Ver Projeto](https://github.com/Lucas-1234567890/dados-enem-2023)  
+  Exploração e visualização dos dados do ENEM 2023, identificando padrões de desempenho por região e escola.  
+  *Stack:* Python, Pandas, Plotly, sklearn.  
+
+- ⚙️ **Automação de Relatórios de Vendas**  
+  [🔗 Ver Projeto](https://github.com/Lucas-1234567890/automacao-relatorios-vendas)  
+  Geração e envio automático de relatórios de vendas para 26 lojas e gerentes.  
+  *Stack:* Python, Pandas, OpenPyXL, SMTP.  
+
+- 🧾 **Automação Contábil**  
   [🔗 Ver Projeto](https://github.com/Lucas-1234567890/automacao_lancamentos_contabeis)  
-  Automatização para padronização e lançamento de dados contábeis em planilhas complexas, eliminando erros manuais e acelerando processos.
+  Leitura de PDFs, Excel e Word para lançamento contábil automático no ERP.  
+  *Stack:* Python, PyPDF2, Pandas.  
 
-- 🛒 **Cadastro Automático de Produtos no ERP**  
-  [🔗 Ver Projeto](https://github.com/Lucas-1234567890/automacao-cadastro-produtos-erp)  
-  Sistema para cadastrar produtos automaticamente em ERPs, reduzindo tempo operacional e aumentando a confiabilidade dos dados.
+- 🛍 **Dashboard Comercial — Pinski Moda**  
+  [🔗 Ver Projeto](https://github.com/Lucas-1234567890/analise-comercial)  
+  Power BI com metas, KPIs e análise de vendas por vendedor, supervisor e produto.  
+  *Stack:* Power BI, DAX, Power Query.  
+
+- 🌐 **FakePinterest — Flask**  
+  [🔗 Ver Projeto](https://github.com/Lucas-1234567890/fakePinterest-Flask)  
+  Aplicação web que replica funcionalidades básicas do Pinterest.  
+  *Stack:* Python, Flask, SQLite.  
 
 ---
 
