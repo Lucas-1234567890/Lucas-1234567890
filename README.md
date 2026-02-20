@@ -62,18 +62,7 @@
 - Engenharia de Dados (Faculdade)
 - Power BI Avançado
 - Python para automações, ciência de dados, desenvolvimento web
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Lucas-1234567890">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas-1234567890&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-1234567890&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-</div>
-
+  
 ---
 
 ### 🐍 Contribution Snake
